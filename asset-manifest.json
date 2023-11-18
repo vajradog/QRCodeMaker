@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QRCodeMaker/static/css/main.aaba91ed.css",
+    "main.js": "/QRCodeMaker/static/js/main.c057cdc1.js",
+    "static/js/787.b0250ce7.chunk.js": "/QRCodeMaker/static/js/787.b0250ce7.chunk.js",
+    "index.html": "/QRCodeMaker/index.html",
+    "main.aaba91ed.css.map": "/QRCodeMaker/static/css/main.aaba91ed.css.map",
+    "main.c057cdc1.js.map": "/QRCodeMaker/static/js/main.c057cdc1.js.map",
+    "787.b0250ce7.chunk.js.map": "/QRCodeMaker/static/js/787.b0250ce7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaba91ed.css",
+    "static/js/main.c057cdc1.js"
+  ]
+}
